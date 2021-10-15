@@ -1,11 +1,11 @@
 # html5-elements
 HTML 5.2 elements in JSON format as cateogorized by the W3C Working Draft.\
-The dataset can be used for serialization or validation purposes.\
+The dataset can be used for serialization or validation purposes.
 
 ## Files
 `html5-elements.php` - PHP file for generating the JSON data file.\
 `html5-elements.json` - Formatted version of the JSON data file.\
-`html5-elements.min.json` - Minified version of the JSON data file.\
+`html5-elements.min.json` - Minified version of the JSON data file.
 
 ## Content
 
