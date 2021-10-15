@@ -57,7 +57,6 @@ $html->contentModels->interactiveContent = array("a", "audio", "button", "detail
 $html->contentModels->palpableContent = array("a", "abbr", "address", "article", "aside", "audio", "b", "bdi", "bdo", "blockquote", "button", "canvas", "cite", "code", "data", "details", "dfn", "div", "dl", "em", "embed", "fieldset", "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6", "header", "i", "iframe", "img", "input", "ins", "kbd", "label", "main", "mark", "math", "meter", "nav", "object", "ol", "output", "p", "pre", "progress", "q", "ruby", "s", "samp", "section", "select", "small", "span", "strong", "sub", "sup", "svg", "table", "textarea", "time", "u", "ul", "var", "video", "#text");
 
 /* 3.2.4.2.9 Script-Supporting Elements (2 elements) */
-/* https://www.w3.org/TR/html52/dom.html#palpable-content */
 /* https://www.w3.org/TR/html52/dom.html#script-supporting-elements */
 $html->contentModels->scriptSupportingElements = array("script", "template");
 
