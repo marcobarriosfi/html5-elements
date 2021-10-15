@@ -51,7 +51,7 @@ The dataset can be used for serialization or validation purposes.
 
 ## Other
 
-The minified data file is generated with the following command:\
+The minified version of the data file is generated with the following command:\
 `php html5-elements.php > html5-elements.min.json`
 
 Note: Sufficient permissions are required to run the script.
