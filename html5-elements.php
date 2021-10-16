@@ -175,6 +175,5 @@ $html->nonConformingFeatures->obsoleteElements = array("acronym", "applet", "bas
 $html->nonConformingFeatures->draftElements = array("command", "keygen");
 
 echo json_encode($html);
-echo PHP_EOL;
 
 ?>
