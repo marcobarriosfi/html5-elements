@@ -57,3 +57,5 @@ The minified version of the data file is generated with the following command:\
 Note: Sufficient permissions are required to run the script.
 
 The formatted version can be generated with the [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) by Curious Concept.
+
+The build-in `json_decode` function in PHP accepts a `JSON_PRETTY_PRINT` flag as the second parameter but it uses four spaces for indentation.
