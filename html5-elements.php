@@ -1,4 +1,5 @@
 <?php
+header('content-type: application/json');
 
 /* HTML 5.2 Elements */
 /* Copyright © 2018-2021 Marco Barrios. All rights reserved. */
